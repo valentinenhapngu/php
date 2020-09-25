@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+}
+
+#container {
+    background-color: darkgray;
+}
+
+#content {
+    background-color: antiquewhite;
+
+}
+
+#concept {
+    background-color: aquamarine;
+}
+
+#conceptList {
+    background-color: burlywood;
+}
+
+#phpViewDemo {
+    background-color: darkcyan;
+}
+
+#sectionHome {
+    background-color: cadetblue;
+}
+
+#footer {
+    background-color: aquamarine;
+}
+
+.col15 {
+    width: 15%;
+    float: left;
+}
+
+.col30 {
+    width: 30%;
+    float: left;
+}
+
+.col70 {
+    width: 70%;
+    float: left;
+
+}
+
+.clear {
+    clear: both;
+}
+
+div {
+    border: 1px solid #fff;
+}
+
+nav ul li {
+    padding-right: 30px;
+}
+
+/*
+ul li a {
+    width: 100%;
+ word-wrap: break-word; 
+}
+*/
